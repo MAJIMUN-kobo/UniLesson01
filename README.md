@@ -3,10 +3,13 @@
 https://majimun-kobo.github.io/unilesson.github.io/unilesson/games/unilesson01/
 
 操作方法
-左クリック：ジャンプ
+左クリック：跳ねる
 
 概要
-
+・画面上を左クリックすると、キャラクターが跳ねます。
+・跳ねる際の X軸はランダムで決まります。
+・跳ねる際にはSEを再生します。
+・壁や床などに衝突するとSEを再生します。
 
 ## 準備
 ### プロジェクトの作成
