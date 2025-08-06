@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Character01 : MonoBehaviour
+public class PlayerController : MonoBehaviour
 {
     public AudioClip BoundSEClip;
     public AudioClip ClickSEClip;
